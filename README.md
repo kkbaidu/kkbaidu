@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js and React Native**
 
-- 💬 Ask me about **Web apps, Andriod, MERN**
+- 💬 Ask me about **Web apps, Andriod, MERN, Machine Learning**
 
 - 📫 How to reach me **kingsleybaidu99@gmail.com**
 
