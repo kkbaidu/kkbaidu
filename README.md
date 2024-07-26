@@ -1,5 +1,6 @@
-
+<!--
 <img alt="topImage" width="1100" height="300" src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
+-->
 
 <h1 align="center">Hi 👋, I'm Kingsley Korankye Baidu</h1>
 <h3 align="center">I'm a computer science student and a Full Stack developer</h3>
