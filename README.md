@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/kkbaidu" target="blank"><img src="https://img.shields.io/twitter/follow/kkbaidu?logo=twitter&style=for-the-badge" alt="kkbaidu" /></a> </p>
 
-- 🌱 I’m currently learning **React.js and React Native**
+- 🌱 I’m currently learning **Machine Learning and Data Analytics**
 
 - 💬 Ask me about **Web apps, Andriod, MERN, Machine Learning**
 
