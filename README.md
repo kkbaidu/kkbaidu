@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kingsleybaidu99@gmail.com**
 
-- ⚡ Fun fact **I'm a fun person**
+- ⚡ Fun fact **I'm a fun person😁**
 
 <h3 align="left">Connect with me:  </h3>
 <p align="left">
