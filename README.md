@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I'm a fun person😊**
 
-<h3 align="left">Connect with me:   </h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/kkbaidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkbaidu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kingsley-korankye-baidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kingsley-korankye-baidu-3a6a16253" height="30" width="40" /></a>
